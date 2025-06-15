@@ -1,4 +1,4 @@
-# Java Maven CI/CD Pipeline with Jenkins, SonarQube, Docker, Argo CD, and EKS
+# CI/CD Pipeline with Jenkins, SonarQube, Docker, Argo CD, and EKS
 
 This project demonstrates the setup and deployment of a CI/CD pipeline using **Jenkins**, **SonarQube**, and **Argo CD** on AWS infrastructure. The pipeline includes code quality checks, Docker image creation, and deployment of a Java Maven application to an **EKS cluster**.
 
