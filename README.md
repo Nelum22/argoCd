@@ -1,0 +1,2 @@
+# argoCd
+CICD static application
