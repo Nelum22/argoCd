@@ -22,7 +22,7 @@ This project demonstrates the setup and deployment of a CI/CD pipeline using **J
 
 ## Project Overview
 
-This project involves setting up a CI/CD pipeline to automate the process of building, testing, and deploying a **Java Maven application**. The key components used in this project are:
+This project involves setting up a CI/CD pipeline to automate the process of building, testing, and deploying a **Simple static application**. The key components used in this project are:
 
 - **Jenkins** for continuous integration  
 - **SonarQube** for code quality analysis  
